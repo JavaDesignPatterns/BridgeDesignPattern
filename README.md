@@ -1,2 +1,2 @@
 # BridgeDesignPattern
-Structural Design Pattern -
+Structural Design Pattern -Test
