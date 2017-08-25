@@ -1,5 +1,10 @@
 # BridgeDesignPattern (Structural Design Pattern)
 
+As per GoF Bridge design pattern "Decouple an abstraction from its implementation so that the two can vary independently" which allow abstraction class and concrete class to change independently and dosnt bound abstraction and implementation at compile time.
+
+It also follows the notion to prefer Composition over inheritence
+
+
 Without Bridge pattern:
 ```java
         A                        
